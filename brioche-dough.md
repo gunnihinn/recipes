@@ -1,6 +1,6 @@
 # Brioche dough
 
-This is the dough I usually use for rolls, from [https://www.crunchtimekitchen.com/savory-breakfast-rolls/](here).
+This is the dough I usually use for rolls, from [here](https://www.crunchtimekitchen.com/savory-breakfast-rolls/).
 
 I haven't tried making brioche from this.
 For that I've usually used something from Marmiton.
