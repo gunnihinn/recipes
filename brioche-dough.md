@@ -13,7 +13,7 @@ For that I've usually used something from Marmiton.
 * 4 eggs, beaten
 * 1/4 cup honey
 * 170 g unsalted butter, melted
-* 3 3/4 cups all-purpose flour
+* 470 g all-purpose flour
 
 ## Instructions
 
