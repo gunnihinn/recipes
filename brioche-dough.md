@@ -9,7 +9,7 @@ For that I've usually used something from Marmiton.
 
 * 3/4 cups warm water
 * 3/4 tablespoon yeast, 3/4 packets
-* 2 teaspoons salt
+* 1 teaspoon salt
 * 4 eggs, beaten
 * 1/4 cup honey
 * 170 g unsalted butter, melted

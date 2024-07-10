@@ -6,7 +6,7 @@
 * 2 cups flour
 * 2 tbsp baking powder
 * 1 tsp cinnamon
-* 1/2 tsp salt
+* 1/4 tsp salt
 
 Beat bananas and eggs.
 Whisk in milk.
