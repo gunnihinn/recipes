@@ -27,6 +27,7 @@ Widen the hole little by little.
 Let the dough ellipse rise in the oven at 50°C for 45 minutes.
 
 Take the dough out, heat the oven to 180°C. 
+Wash with egg.
 Decore the dough with pearl sugar, cherries, pasta de azucar.
 Bake for 25 minutes.
 Consider adding a decoration with chocolate ganache once the bread cools.
