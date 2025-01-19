@@ -1,15 +1,13 @@
 # Brioche
 
-* 50g sugar
-* 7g yeast
-* 1 tsp salt
-* 175g butter at room temperature
 * 350g flour
-* 2 tbsp cold water
+* 50g sugar
+* 5g yeast
+* 1 tsp salt
+* 175g butter in cubes at room temperature
 * 4 eggs
 
-Mix drys.
-Melt butter.
+Mix drys, add butter in pieces but dont't mix it in.
 Beat eggs, mix wets.
 Knead together well.
 Put dough into a bowl, cover with plastic, and put into the fridge overnight.
