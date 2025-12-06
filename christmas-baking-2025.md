@@ -50,10 +50,11 @@ Spread the frosting on top of the cupcakes.
 
 ## Gateau invisible
 
-Serious eats: https://www.seriouseats.com/gateau-invisible
+[Serious eats](https://www.seriouseats.com/gateau-invisible),
+[Test kitchen 1](https://www.americastestkitchen.com/articles/8605-how-to-make-gateau-invisible),
+[Test kitchen 2](https://www.americastestkitchen.com/recipes/17178-gateau-invisible-with-brown-sugar-cinnamon-whipped-cream).
 
-Test kitchen: https://www.americastestkitchen.com/articles/8605-how-to-make-gateau-invisible
-https://www.americastestkitchen.com/recipes/17178-gateau-invisible-with-brown-sugar-cinnamon-whipped-cream
+Fills a mold with 8 buns.
 
 * 132 g granulated sugar
 * 1 vanilla bean
@@ -68,7 +69,7 @@ You can substitute maple syrup or honey for the apple jelly.
 
 Whisk sugar, vanilla and eggs until smooth.
 Whish in flour, baking powder, and salt until smooth.
-Slice apples with mandolin; 5 slices should measure 1.2 cm.
+Slice apples with mandolin; 5 slices should measure 1.2 cm (setting 3 on mandolin).
 Reserve slices for the top, add all others to batter and fold to coat.
 Set aside for 15 minutes.
 
@@ -121,3 +122,38 @@ Add eggs one at a time.
 Beat in yogurt, vanilla and mashed bananas.
 Add dries to wets and combine.
 Bake for 60 minutes.
+
+### Ganache
+
+* 300 g whipping cream (1) at least 33 % fat to heat
+* A vanilla pod or a tbsp of vanilla extract
+* 300 g whipping cream (2) at least 33 % fat kept in the fridge
+* 240 g white chocolate (at least 30%) cut in small pieces
+
+Note this is a total of 600 g cream.
+
+Heat up the whipping cream (1) to a boil with one vanilla pod or vanilla extract. Let it infuse for 20 minutes.
+
+Put your white chocolate in a large bowl.
+
+Remove the vanilla pod from your whipping cream (1) and heat it up again to a boil. Pour onto your white chocolate. Let this for 1 min for the chocolate to melt.
+
+Add the cold whipping cream and whisk until it becomes homogeneous. Let it rest in the fridge for 6 hours at least otherwise you will not be able to whip it. Whip to soft peaks before assembly of a mousse cake and to stiff peaks for piping
+
+Not stable at room temperature. Keep in frosted cake in fridge until serving.
+
+### Ganache alternative
+
+Uses significantly less cream.
+Maybe more stable.
+
+* 200g pure white chocolate minimum 28% cocoa butter
+* 350ml 35% heavy whipping cream, divided
+* 1 vanilla bean or 2 tsp vanilla bean paste
+* 1 tsp (5ml) pure vanilla extract
+
+Heat 1/3 of cream until simmering and pour over chocolate to melt it.
+Let stand for 1 minute, then whisk to combine.
+Once cooled, add in rest of cream.
+Cover and refrigerate for at least 6 hours, preferably overnight.
+Whip to stiff peaks for piping.
