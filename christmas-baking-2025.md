@@ -7,9 +7,10 @@ invisible cake.
 ## Mandarin cake
 
 From Gartine's book.
-Probably need to double the recipe to fill one cake mold.
 
 ### Cake
+
+Makes 10-12 small cakes.
 
 * 225 g carrots
 * 160 ml sunflower oil
@@ -32,7 +33,7 @@ While still beating, gradually fold the mandarin-carrot mixture into the egg bat
 Beat until well combined, but do not overbeat.
 
 Divide the batter evenly among the cupcake liners.
-Bake the cupcakes in the center of the oven for 20 minutes.
+Bake the cupcakes in the center of the oven for 30 minutes.
 Remove the cupcakes from the oven and let them cool in the liners on a wire rack for 5 minutes.
 Remove the cupcakes from their pans and let them cool completely on a wire rack.
 
@@ -54,7 +55,7 @@ Spread the frosting on top of the cupcakes.
 [Test kitchen 1](https://www.americastestkitchen.com/articles/8605-how-to-make-gateau-invisible),
 [Test kitchen 2](https://www.americastestkitchen.com/recipes/17178-gateau-invisible-with-brown-sugar-cinnamon-whipped-cream).
 
-Fills a mold with 8 buns.
+Makes 8 small cakes.
 
 * 132 g granulated sugar
 * 1 vanilla bean
@@ -65,7 +66,7 @@ Fills a mold with 8 buns.
 * 1 kg pink lady/Fuji/golden delicious, peeled
 * 2 tsp apple jelly, melted
 
-You can substitute maple syrup or honey for the apple jelly.
+I don't have apple jelly so I make a syrup from the apple peels and cores by reducing a 50/50 mix of water and sugar with them in it, then strain.
 
 Whisk sugar, vanilla and eggs until smooth.
 Whish in flour, baking powder, and salt until smooth.
@@ -76,38 +77,41 @@ Set aside for 15 minutes.
 Heat oven to 170°C.
 Grease mold with vegetable spray and line with baking paper.
 Fill mold with apples, lay reserved apples on top, spread remaining batter on top.
-Bake for 1.5 hours, until toothpick comes out clean, rotating half way through.
+Bake for 1.5 hours (55 minutes in small molds), until toothpick comes out clean, rotating half way through.
 Brush top with apple jelly.
 Let cool for 1.5 hours, then remove from molds and let cool in fridge.
 
-### Whipped Cream
+### Caramel
 
-* 1 cup heavy cream
-* 2 tbsp packed dark brown sugar
-* 1/4 tsp ground cinnamon
+* 230g caster sugar
+* 50g glucose syrup
+* 130g heavy cream
+* 200g butter
+* Salt, to taste
 
-### Caramel sauce
+Melt the sugar and the glucose syrup in a saucepan over medium heat until it turns a golden amber color, stirring occasionally to prevent burning.
+Be careful not to stir too much, as overmixing can cause crystallization.
 
-* 1/4 cup (60 ml) water
-* 120 g sugar
-* 3/4 cup (180 ml) heavy cream
-* 2 tbsp (36 g) white miso
+Once the sugar has melted and reached the right color, lower the heat slightly and add the HOT cream in three additions, stirring gently after each to fully incorporate.
 
-Combine water and sugar over medium heat.
-Stir until syrup boils, then simmer without stirring until syrup is honey colored (5-6 minutes).
-Shake and swirl as needed.
-Add cream and reduce to medium-low heat.
-Stir constantly, simmer until caramel is 107°C.
-Off heat, whisk in miso until smooth.
+Let your caramel cool down to 60-80°C. If you add the butter directly when the caramel is too hot, the butter will melt instantly, disrupting the texture and making it difficult to emulsify. As a result, the caramel could split. If this happens, you can use an immersion blender to bring it back together, but it won’t be as smooth and glossy.
+
+Add the butter and combine with an immersion blender, making sure to avoid adding air.
+Add a generous pinch of salt.
+The salt helps balance the sweetness of the caramel.
+
+Cover it with plastic wrap and let it set, either at room temperature or in the fridge.
+
 
 ## Banana bread
 
-Maybe add cloves?
+Makes 12 small cakes or one big one.
 
 * 2 cups (250g) all-purpose flour (spooned & leveled)
 * 1 tsp baking soda
 * 1/4 tsp salt
 * 1/2 tsp cinnamon
+* 1/2 tsp cloves
 * 112g room-temperate butter
 * 150 gr brown sugar
 * 2 large eggs, at room temperature
@@ -121,31 +125,10 @@ Beat butter and brown sugar until light and creamy.
 Add eggs one at a time.
 Beat in yogurt, vanilla and mashed bananas.
 Add dries to wets and combine.
-Bake for 60 minutes.
+Bake for 60 minutes if making one big cake; otherwise 30 minutes.
 
-### Ganache
 
-* 300 g whipping cream (1) at least 33 % fat to heat
-* A vanilla pod or a tbsp of vanilla extract
-* 300 g whipping cream (2) at least 33 % fat kept in the fridge
-* 240 g white chocolate (at least 30%) cut in small pieces
-
-Note this is a total of 600 g cream.
-
-Heat up the whipping cream (1) to a boil with one vanilla pod or vanilla extract. Let it infuse for 20 minutes.
-
-Put your white chocolate in a large bowl.
-
-Remove the vanilla pod from your whipping cream (1) and heat it up again to a boil. Pour onto your white chocolate. Let this for 1 min for the chocolate to melt.
-
-Add the cold whipping cream and whisk until it becomes homogeneous. Let it rest in the fridge for 6 hours at least otherwise you will not be able to whip it. Whip to soft peaks before assembly of a mousse cake and to stiff peaks for piping
-
-Not stable at room temperature. Keep in frosted cake in fridge until serving.
-
-### Ganache alternative
-
-Uses significantly less cream.
-Maybe more stable.
+### Whipped vanilla ganache
 
 * 200g pure white chocolate minimum 28% cocoa butter
 * 350ml 35% heavy whipping cream, divided
