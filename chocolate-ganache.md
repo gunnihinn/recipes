@@ -1,6 +1,6 @@
 # Pipeable chocolate ganache
 
-* 200g chocolage
+* 200g chocolate
 * 200ml cream
 
 Break the chocolate into small pieces.

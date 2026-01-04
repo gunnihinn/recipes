@@ -1,4 +1,4 @@
-# Rosca de reyes / pain de muerto
+# Rosca de reyes / pan de muerto
 
 * 500g flour
 * 90g sugar
